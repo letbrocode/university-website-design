@@ -38,8 +38,8 @@ https://letbrocode.github.io/university-website-design/
    ```
 
 2. Navigate into the project directory:
-  ```bash
-  cd university-website-design
-  ```
+     ```bash
+     cd university-website-design
+     ```
 
 3. Open `index.html` in your preferred browser.
